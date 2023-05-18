@@ -93,10 +93,7 @@ I am passionate about creating beautiful and user-friendly web applications. I a
 
 <br/>  
 
-<details>![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=y1jful5m28l9l5rbit99tfo5w&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=vigneshpy&&style=flat-square)  
-</details>
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=y1jful5m28l9l5rbit99tfo5w&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 <br />
 
 ----
